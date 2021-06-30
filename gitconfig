@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vasco.a.popov@gmail.com
+	name = Vasco Popov
